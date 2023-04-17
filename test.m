@@ -1,1 +1,2 @@
-printf("hh\n")
+printf("hh\n");
+disp("hh")
