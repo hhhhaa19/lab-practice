@@ -32,3 +32,20 @@
     %     y4=5.*x.^3-x.^2+1;
     %     plot(x,y4)
     %     title('h')
+% x=linspace(-pi,pi);
+% f=exp(x);
+% plot(x,f,'r:','lineWidth',1.2)
+% grid on
+% M=randi([40 100],6,6);
+% N=M>90;
+% disp(N)
+% a=sum(sum(N));
+% M(N)=100;
+% disp(M)
+% for i=1:10
+%     for j=1:10
+%         A(i,j)=(i-1)*10+j;
+%     end
+% end
+% N=isprime(A);
+% disp(A(N))
