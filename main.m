@@ -13,5 +13,5 @@
 % v=randi([30 80],1,20);
 % a=listMax(v)
 % a=sumDigits(1942)
-
-circle(1,1,2)
+% v=[12,45,63,9,23,1];
+% bub_Sort(v)
