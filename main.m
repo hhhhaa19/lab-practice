@@ -15,3 +15,10 @@
 % a=sumDigits(1942)
 % v=[12,45,63,9,23,1];
 % bub_Sort(v)
+m=1;
+[a,b]=myExp(2,m);
+while b>0.000001
+    m=m+1;
+    [a,b]=myExp(2,m);
+end
+disp(m)
